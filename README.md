@@ -1,7 +1,7 @@
 # CSIT340-ELECTIVE-1
  REACTJS TYPESCRIPT FRONT END ONLY
 
-#### INSTRUCTIONS: *Copy Command inside "" to execute Command in VSCODE after opening the file*
+#### INSTRUCTIONS: *Copy Command and execute Command in VSCODE after opening the file*
 
 | Command  | Description |
 | ------------- | ------------- |
