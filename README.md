@@ -1,7 +1,7 @@
 # CSIT340-ELECTIVE-1
  REACTJS TYPESCRIPT FRONT END ONLY
 
-#### INSTRUCTIONS: *REMOVE "" TO EXECUTE COMMAND IN THE COMMAND CONSOLE OF VSCODE AFTER OPENING FILE*
+#### INSTRUCTIONS: *Copy Command inside "" to execute Command in VSCODE after opening the file*
 
 + “node -v“ gets nodejs version <br />
 + “npx create-react-app reactexample --template typescript” create react app reactexample as appname <br />
